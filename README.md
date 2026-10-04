@@ -89,7 +89,5 @@ A dedicated heater control circuit is also incorporated into the design for ther
 
 
 👩‍💻 Author
-
 Harshitha S
-
 Electronics & Communication Engineering
