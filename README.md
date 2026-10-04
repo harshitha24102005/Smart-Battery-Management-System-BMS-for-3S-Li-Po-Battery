@@ -1,6 +1,6 @@
 🔋 Smart Battery Management System (BMS) for 3S Li-Po Battery
 
-A custom hardware design for a 3S Li-Po Battery Management System (BMS) built around the BQ76920 battery monitor** and **ESP32-S3-WROOM-1.
+A custom hardware design for a 3S Li-Po Battery Management System (BMS) built around the BQ76920 battery monitor and ESP32-S3-WROOM-1.
 
 The project focuses on schematic design, power management, battery monitoring, protection circuitry, temperature sensing, MOSFET control, and complete PCB layout using KiCad.
 
